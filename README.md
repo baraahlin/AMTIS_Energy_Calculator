@@ -1,6 +1,6 @@
 # AMTIS_Energy_Calculator
 
-A # HTML-JavaScript # -based web application to calculate power, energy, and total charge based on the current rate.
+A  HTML-JavaScript-based web application to calculate power, energy, and total charge based on the current rate.
 
 ## Usage 
 Navigate to https://baraahlin.github.io/AMTIS_Energy_Calculator/
