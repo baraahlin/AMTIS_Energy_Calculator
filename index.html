@@ -74,7 +74,7 @@
                 const rate = parseFloat(document.getElementById('rate').value);
 
                 const outputRate = rate / 100;
-                document.getElementById('outputRateDisplay').innerText = "RATE: " + outputRate.toFixed(3) + " RM";
+                document.getElementById('outputRateDisplay').innerText = "RATE: " + " RM" + outputRate.toFixed(3) ;
 
                 const power = voltage * current;
                 const power_display = power/1000; //have it in kwh
